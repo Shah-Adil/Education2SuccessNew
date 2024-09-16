@@ -87,7 +87,7 @@ img {
 .container {
   max-width: 1250px;
   margin: 0 auto;
-  padding: 0 10px;
+  padding: 0 20px;
 }
 
 a {
@@ -2474,6 +2474,14 @@ footer .main-footer .footer-link li {
     --semi-font: 20px;
     --big-font: 24px;
     --bigger-font: 30px;
+  }
+
+  .destination-control {
+    display: none ;
+  }
+
+  .leadership-content {
+    gap: 130px 20px ;
   }
 
   .main-header img {
